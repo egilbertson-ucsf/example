@@ -1,7 +1,7 @@
 # example
 
-[![Build
-Status](https://travis-ci.org/ucsf-bmi-203-2017/example.svg?branch=master)](https://travis-ci.org/ucsf-bmi-203-2017/example)
+[![Build Status](https://travis-ci.org/egilbertson-ucsf/example.svg? branch=master)](https://travis-ci.org/egilbertson-ucsf/example)
+
 
 Example python project with testing.
 
